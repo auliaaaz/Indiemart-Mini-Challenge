@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: sql_test
+    database: active-complex-400513
+    tables:
+      - name: discounts_prices_all
+      - name: items
