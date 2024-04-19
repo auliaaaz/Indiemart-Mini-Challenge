@@ -8,9 +8,9 @@ The data that used in this project spans over a period of around three months, s
 
 ## Dashboard
 
-The visualization of the insights is presented through a single-page dashboard built using Looker Studio. You can access the dashboard [here]([link](https://lookerstudio.google.com/s/txfcAULybdg)). Below is a glimpse of how the dashboard appears (also can be seen here: ![dashboard](https://lookerstudio.google.com/u/0/reporting/e03436b5-366a-475b-9e57-0fe16684daaf/page/VgnsD/edit):
+The visualization of the insights is presented through a single-page dashboard built using Looker Studio. You can access the dashboard [here]([link](https://lookerstudio.google.com/s/txfcAULybdg)). Below is a glimpse of how the dashboard appears (also can be seen here [dashboard](https://lookerstudio.google.com/u/0/reporting/e03436b5-366a-475b-9e57-0fe16684daaf/page/VgnsD/edit)):
 
-![Dashboard Preview](https://github.com/auliaaaz/Indiemart-Mini-Challenge/blob/main/img_dashboard.png)
+![Dashboard Preview](https://github.com/auliaaaz/Indiemart-Mini-Challenge/blob/main/Screenshot%20(801).png)
 
 Here are some highlights regarding the dashboard:
 1. **Market Presence: Alfagift lists nearly twice as many items as klikindomaret**, highlighting its significant market presence and possibly its dominance.
